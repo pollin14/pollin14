@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pollin14
 - 👀 I’m interested in Object-Oriented Programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DDD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me victor.aguilar@ciencias.unam.mx
 
